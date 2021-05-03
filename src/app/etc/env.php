@@ -124,7 +124,7 @@ return [
         'vertex' => 1
     ],
     'downloadable_domains' => [
-        'magento2.test'
+        'magento.test'
     ],
     'install' => [
         'date' => 'Wed, 27 Jan 2021 08:46:33 +0000'
